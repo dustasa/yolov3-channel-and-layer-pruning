@@ -1,0 +1,5 @@
+classes = 3
+train =  /mnt/dataset/OD/strawberry/train/train.txt
+valid = /mnt/dataset/OD/strawberry/val/valid.txt 
+names = data/strawberry.names
+backup = backup
